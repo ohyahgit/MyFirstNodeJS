@@ -1,0 +1,19 @@
+{
+  "name": "myfirstnodejs",
+  "version": "1.0.0",
+  "description": "Me Practicing Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohyahgit/MyFirstNodeJS.git"
+  },
+  "author": "Amina Shellman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohyahgit/MyFirstNodeJS/issues"
+  },
+  "homepage": "https://github.com/ohyahgit/MyFirstNodeJS#readme"
+}
